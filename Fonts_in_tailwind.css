@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=\, initial-scale=1.0" />
+    <title>font sizes in tailwind CSS</title>
+    <link rel="stylesheet" href="input.css" />
+  </head>
+  <body>
+    <div class="mx-5 font-sans">Hello</div>
+    <div class="mx-5 font-serif">Hello</div>
+    <div class="mx-5 font-mono text-center">Hello</div>
+    <div class="font-thin">Hii Krishna</div>
+  </body>
+</html>
