@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Margin and Padding in tailwind css</title>
+    <link rel="stylesheet" href="input.css" />
+  </head>
+  <body>
+    <nav class="">
+      <ul class="flex space-x-4">
+        <li>Home</li>
+        <li>About</li>
+        <li>services</li>
+        <li>contact</li>
+      </ul>
+    </nav>
+    <div>
+      <div class="mx-2 w-56 bg-red-600 px-8 text-white rounded-lg">
+        Im a div
+      </div>
+      <!-- border radius -->
+
+      <div
+        class="mx-5 w-40 bg-blue-500 text-white text-center mt-5 hover:bg-slate-500 cursor-pointer rounded-xl"
+      >
+        Button1
+      </div>
+      <div
+        class="mx-5 w-40 bg-blue-500 text-white text-center mt-5 hover:bg-red-600 cursor-pointer rounded-t-sm border-l-4 border-r-black"
+      >
+        Button2
+      </div>
+      <div
+        class="pointer-events-auto border mx-5 w-40 bg-blue-500 text-white text-center mt-5 hover:bg-yellow-600 cursor-pointer rounded-b-xl"
+      >
+        Button2
+      </div>
+    </div>
+  </body>
+</html>
