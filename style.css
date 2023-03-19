@@ -1,0 +1,63 @@
+/* inline css  > id selector > class selector > element selector ---Priority of selectors */
+.title {
+  color: red;
+}
+
+.subtitle {
+  color: aqua;
+}
+
+#contact-us {
+  color: darkblue;
+}
+
+h3:hover {
+  color: blueviolet;
+}
+
+.shubham {
+  color: blue;
+}
+
+#jj {
+  color: red;
+}
+/* childrens */
+*/ li:first-child {
+  color: brown;
+}
+
+li:last-child {
+  color: blanchedalmond;
+}
+
+li:nth-child(2) {
+  color: chartreuse;
+}
+
+li:only-child {
+  color: aqua;
+}
+
+#google-link:link {
+  color: red;
+}
+#google-link:visited {
+  color: blue;
+}
+h3 + a {
+  color: red;
+}
+
+textarea ~ button {
+  background-color: blue;
+  color: purple;
+}
+
+ul > li {
+  color: blue;
+}
+
+ul li {
+  color: greenyellow;
+}
