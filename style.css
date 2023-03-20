@@ -61,3 +61,7 @@ ul > li {
 ul li {
   color: greenyellow;
 }
+/* This attribute we can use to style same for all images */
+img[src^="./imges"] {
+  border: 10px solid red;
+}
