@@ -77,7 +77,8 @@ body {
   /* background-color: rgba(122, 12, 20, 0.4);
    */
 
-  background: linear-gradient(to bottom, red, blue, green, steelblue);
+  /* background: linear-gradient(to bottom, red, blue, green, steelblue); */
+  background: linear-gradient(to bottom right, red, blue, green, steelblue);
 }
 
 #title {
