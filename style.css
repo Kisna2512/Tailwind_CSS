@@ -78,7 +78,8 @@ body {
    */
 
   /* background: linear-gradient(to bottom, red, blue, green, steelblue); */
-  background: linear-gradient(to bottom right, red, blue, green, steelblue);
+  /* background: linear-gradient(215deg, red, blue, green, steelblue); */
+  background: radial-gradient(red, blue);
 }
 
 #title {
