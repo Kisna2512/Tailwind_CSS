@@ -1,3 +1,4 @@
+/* Today's timestamp: 2:01:15 */
 /* inline css  > id selector > class selector > element selector ---Priority of selectors */
 /* .title {
   color: red;
@@ -11,7 +12,7 @@
   color: darkblue;
 }
 
-Today's timestamp: 1:37:04
+
 
 h3:hover {
   color: blueviolet;
@@ -79,7 +80,9 @@ body {
 
   /* background: linear-gradient(to bottom, red, blue, green, steelblue); */
   /* background: linear-gradient(215deg, red, blue, green, steelblue); */
-  background: radial-gradient(red, blue);
+  /* background: radial-gradient(red, blue);
+   */
+  background: radial-gradient(red 20%, green 50%, blue 30%);
 }
 
 #title {
