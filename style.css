@@ -93,6 +93,8 @@ body {
 
 #title {
   color: rgb(232, 176, 21);
+  font-weight: 100;
+  font-style: italic;
 }
 .subtitle {
   color: rgb(207, 12, 200);
