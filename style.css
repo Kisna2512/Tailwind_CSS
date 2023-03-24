@@ -82,7 +82,8 @@ body {
   /* background: linear-gradient(215deg, red, blue, green, steelblue); */
   /* background: radial-gradient(red, blue);
    */
-  background: radial-gradient(red 20%, green 50%, blue 30%);
+  /* background: radial-gradient(red 20%, green 50%, blue 30%); */
+  /* background: radial-gradient(circle, red 20%, green 50%, blue 30%); */
 }
 
 #title {
@@ -90,4 +91,10 @@ body {
 }
 .subtitle {
   color: rgb(207, 12, 200);
+}
+
+#google-link {
+  text-decoration: none;
+  /* text-decoration: line-through; */
+  /* text-decoration: wavy; */
 }
