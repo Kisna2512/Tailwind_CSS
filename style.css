@@ -84,7 +84,8 @@ body {
    */
   /* background: radial-gradient(red 20%, green 50%, blue 30%); */
   /* background: radial-gradient(circle, red 20%, green 50%, blue 30%); */
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  text-align: center;
 }
 
 #title {
