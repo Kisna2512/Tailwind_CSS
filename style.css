@@ -87,24 +87,28 @@ body {
   /* text-transform: uppercase; */
   /* text-align: justify;
    */
-  font-family: "Great Vibes", cursive;
+  /* font-family: "Great Vibes";
+   */
+  font-family: "Great Vibes", sans-serif;
 }
 
 #title {
   color: rgb(232, 176, 21);
-  font-weight: 100;
-  /* font-style: italic;
-   */
-  /* font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif; */
-  font-family: sans-serif;
-}
-.subtitle {
-  color: rgb(207, 12, 200);
+  font-family: "Montserrat", sans-serif;
 }
 
-#google-link {
+/* font-style: italic;
+  
+/* font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif; */
+/* } */
+/* .subtitle {
+  color: rgb(207, 12, 200);
+
+
+
+/* #google-link {
   text-decoration: none;
   /* text-decoration: line-through; */
-  /* text-decoration: wavy; */
-}
+/* text-decoration: wavy; */
+/* } */
