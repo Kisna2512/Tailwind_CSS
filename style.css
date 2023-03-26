@@ -1,4 +1,4 @@
-/* Today's timestamp: 2:01:15 */
+/* Today's timestamp: 2:37:24*/
 /* inline css  > id selector > class selector > element selector ---Priority of selectors */
 /* .title {
   color: red;
@@ -87,8 +87,7 @@ body {
   /* text-transform: uppercase; */
   /* text-align: justify;
    */
-  font-size: 1.15em;
-  font-weight: 100;
+  font-family: "Great Vibes", cursive;
 }
 
 #title {
@@ -96,8 +95,9 @@ body {
   font-weight: 100;
   /* font-style: italic;
    */
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  /* font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif; */
+  font-family: sans-serif;
 }
 .subtitle {
   color: rgb(207, 12, 200);
