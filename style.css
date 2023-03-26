@@ -1,4 +1,4 @@
-/* Today's timestamp: 2:37:24*/
+/* Today's timestamp: 3:00:47*/
 /* inline css  > id selector > class selector > element selector ---Priority of selectors */
 /* .title {
   color: red;
@@ -112,3 +112,10 @@ body {
   /* text-decoration: line-through; */
 /* text-decoration: wavy; */
 /* } */
+
+#about-us {
+  height: 300px;
+  width: 60%;
+  border: 100px;
+  border-color: blue;
+}
