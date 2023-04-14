@@ -1,4 +1,4 @@
-/* Today's timestamp: 3:00:47*/
+/* Today's timestamp: 3:25:01*/
 /* inline css  > id selector > class selector > element selector ---Priority of selectors */
 /* .title {
   color: red;
@@ -122,4 +122,20 @@ body {
   /* padding: 20px 0 25px 25px; */
   margin: 20px 0 25px 25px;
   float: right;
+}
+
+.container {
+  background-color: rgb(250, 250, 250);
+  margin: 10px;
+  display: flex;
+}
+
+.class-container {
+  background: rgb(36, 130, 39);
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 70px;
+  line-height: 50px;
+  margin: 10px;
 }
