@@ -125,9 +125,10 @@ body {
 }
 
 .container {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(211, 40, 40);
   margin: 10px;
   display: flex;
+  flex-direction: column;
 }
 
 .class-container {
